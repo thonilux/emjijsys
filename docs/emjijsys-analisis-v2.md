@@ -1,9 +1,8 @@
 # 🏗️ EMJIJSYS - Analisis V2 Arsitektur, Struktur, MEP, Psikologi Ruang
 
-Sumber utama: `D:\cad\emjijsys-Model.pdf`  
-Referensi tambahan: `D:\cad\emjijsys-antigravity.md`  
-Dokumen sebelumnya: `D:\cad\emjijsys-analasis.md`  
-Preview gambar: `D:\cad\codex_redraw_floorplan_lantai1\docs\emjijsys_model_page1.png`  
+Sumber utama: [`assets/emjijsys-Model.pdf`](../assets/emjijsys-Model.pdf)  
+Referensi tambahan: [`docs/references/emjijsys-antigravity-v2.md`](references/emjijsys-antigravity-v2.md)  
+Preview gambar: [`assets/emjijsys_model_page1.png`](../assets/emjijsys_model_page1.png)  
 Objek kajian: ruko-hunian 2 lantai PT. EMJI JAYA  
 Status: analisis pra-gambar kerja, belum menggantikan perhitungan struktur/MEP final
 

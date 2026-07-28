@@ -1,0 +1,16 @@
+# AutoCAD temporary and backup files
+*.bak
+*.sv$
+*.ac$
+*.dwl
+*.dwl2
+
+# Local exports / scratch
+unused/
+tmp/
+*.tmp
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+.vscode/
