@@ -2,6 +2,8 @@
 
 Roadmap ini dipakai untuk mengubah konsep menjadi paket gambar kerja yang lebih siap dicek.
 
+Status terbaru: Rev3 memakai **1 KM shared + wastafel luar**, bukan 2 kamar mandi.
+
 ## 🚨 Prioritas Tinggi
 
 - [ ] Buat overlay grid resmi `1-3` dan `A-E`.
@@ -10,14 +12,15 @@ Roadmap ini dipakai untuk mengubah konsep menjadi paket gambar kerja yang lebih 
 - [ ] Cek dinding lantai 2 terhadap posisi balok.
 - [ ] Detailkan balok tepi void tangga.
 - [ ] Detailkan balok balkon dan waterproofing balkon.
-- [ ] Tentukan shaft plumbing untuk laundry + dua kamar mandi.
+- [ ] Tentukan shaft plumbing untuk laundry + KM shared + wastafel luar.
 - [ ] Pastikan koridor bersih minimal 900 mm.
-- [ ] Simulasi swing semua pintu di area toilet, ruang kerja, kamar utama, kamar tidur.
+- [ ] Simulasi swing semua pintu di area toilet, wastafel luar, ruang kerja, kamar utama, kamar tidur.
 
 ## 🏠 Arsitektur
 
 - [ ] Finalkan foyer/arrival dekat tangga.
 - [ ] Finalkan ruang tamu dekat tangga.
+- [ ] Finalkan KM shared dan wastafel luar rev3.
 - [ ] Finalkan dapur kering + meja makan.
 - [ ] Kunci mushola 3000 x 2200 mm.
 - [ ] Kunci balkon 3000 x 1500 mm.

@@ -1,8 +1,8 @@
-# 🏗️✨ ANALISIS KOMPREHENSIF DESAIN EMJIJSYS-MODEL — V2
+﻿# 🏗️✨ ANALISIS KOMPREHENSIF DESAIN EMJIJSYS-MODEL — V2
 ### 🏠 Ruko Hunian 2 Lantai — PT. Emji Jaya | *"From Shop Floor to Dream Home"*
 
-📄 **Sumber Gambar:** [emjijsys-Model.pdf](file:///d:/cad/emjijsys-Model.pdf) (As Built Drawing)  
-💻 **File CAD:** [emjijsys.dwg](file:///d:/cad/emjijsys.dwg)  
+📄 **Sumber Gambar:** [emjijsys-Model.pdf](../../assets/emjijsys-Model.pdf) (As Built Drawing)  
+💻 **File CAD:** `emjijsys.dwg`  
 📍 **Lokasi:** Desa Genggong Pojok, Kel. Delingan, Kec. Karanganyar, Kab. Karanganyar, Jawa Tengah (57716)  
 🌐 **Koordinat:** `-7.600609, 110.991651`  
 📐 **Luas Lahan:** ±226 m² | **Lebar Lahan:** 9,80 m | **Panjang Lahan:** ±23,06 m  
@@ -10,7 +10,7 @@
 📏 **Tinggi Lantai 1 → 2:** 3.600 mm (floor-to-floor)  
 📅 **Tanggal Analisis:** 29 Juli 2026 (Revisi V2)  
 🤖 **Analis:** Antigravity AI — Claude Opus 4.6  
-📚 **Referensi:** [emjijsys-analasis.md](file:///d:/cad/emjijsys-analasis.md), [emjijsys-antigravity.md](file:///d:/cad/emjijsys-antigravity.md), [analisis_lahan_dasar.md](file:///d:/cad/analisis_lahan_dasar.md), [rencana_ruko_hunian_v1.md](file:///d:/cad/rencana_ruko_hunian_v1.md), [analisis_kenyamanan_tangga.md](file:///d:/cad/analisis_kenyamanan_tangga.md)
+📚 **Referensi:** `emjijsys-analasis.md`, `emjijsys-antigravity.md`, `analisis_lahan_dasar.md`, `rencana_ruko_hunian_v1.md`, `analisis_kenyamanan_tangga.md`
 
 ---
 
@@ -1153,13 +1153,13 @@ Bangunan ruko punya risiko khusus: lantai 1 berisi barang dagangan, listrik usah
 **Disiapkan oleh:** Antigravity AI — Claude Opus 4.6  
 **Tanggal:** 29 Juli 2026  
 **Versi:** 2.0  
-**Referensi Gambar:** [emjijsys-Model.pdf](file:///d:/cad/emjijsys-Model.pdf) | [emjijsys.dwg](file:///d:/cad/emjijsys.dwg)  
+**Referensi Gambar:** [emjijsys-Model.pdf](../../assets/emjijsys-Model.pdf) | `emjijsys.dwg`  
 **Dokumen Pendukung:**  
-- [emjijsys-analasis.md](file:///d:/cad/emjijsys-analasis.md) — Analisis mendalam arsitektur, struktur, MEP, dan psikologi ruang  
-- [emjijsys-antigravity.md](file:///d:/cad/emjijsys-antigravity.md) — Analisis komprehensif V1  
-- [analisis_lahan_dasar.md](file:///d:/cad/analisis_lahan_dasar.md) — Data lahan dan lokasi  
-- [rencana_ruko_hunian_v1.md](file:///d:/cad/rencana_ruko_hunian_v1.md) — Rencana bangunan  
-- [analisis_kenyamanan_tangga.md](file:///d:/cad/analisis_kenyamanan_tangga.md) — Perhitungan tangga  
-- [km_kolong_tangga.md](file:///d:/cad/km_kolong_tangga.md) — Analisis KM under-stair  
-- [review_km_komersial.md](file:///d:/cad/review_km_komersial.md) — Review ukuran toilet  
-- [analisis_kenyamanan_tinggi_km.md](file:///d:/cad/analisis_kenyamanan_tinggi_km.md) — Ergonomi tinggi KM  
+- `emjijsys-analasis.md` — Analisis mendalam arsitektur, struktur, MEP, dan psikologi ruang  
+- `emjijsys-antigravity.md` — Analisis komprehensif V1  
+- `analisis_lahan_dasar.md` — Data lahan dan lokasi  
+- `rencana_ruko_hunian_v1.md` — Rencana bangunan  
+- `analisis_kenyamanan_tangga.md` — Perhitungan tangga  
+- `km_kolong_tangga.md` — Analisis KM under-stair  
+- `review_km_komersial.md` — Review ukuran toilet  
+- `analisis_kenyamanan_tinggi_km.md` — Ergonomi tinggi KM  

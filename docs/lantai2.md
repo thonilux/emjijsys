@@ -15,7 +15,8 @@ Acuan yang sudah tersedia:
 | Span arah panjang | 4000 mm x 4 bentang |
 | Elevasi lantai 1 | +/- 0.00 |
 | Asumsi elevasi lantai 2 | +3.60 m |
-| Tangga dari lantai 1 | Revisi konsep: tangga siku / L-shape |
+| Tangga dari lantai 1 | Tangga belakang kiri, footprint terkunci dari lantai 1 |
+| Keputusan Rev3 | 1 KM shared + wastafel luar, bukan 2 kamar mandi |
 
 ## Koreksi Penting: Space Tangga Sudah Terpakai
 
@@ -48,7 +49,7 @@ Konsep ini mengikuti arah diskusi terbaru:
 
 - Tangga dan service room berada di belakang.
 - Service room menjadi janitor + laundry compact.
-- Dua kamar mandi berada di selatan service area: KM umum dan KM privat.
+- Rev3 memakai 1 KM shared di dekat service area, dengan wastafel luar sebagai buffer tamu.
 - Ruang tamu dekat tangga sebagai area transisi.
 - Dapur kering + meja makan berada dekat ruang tamu/foyer.
 - Ruang keluarga berada di depan, dekat balkon 3000 x 1500 mm.
@@ -80,10 +81,13 @@ Catatan: ilustrasi ini hanya sketsa zoning awal untuk brainstorming hunian. Posi
 
 ## Program Ruang Usulan Final Sederhana
 
+Catatan Rev3: skema 2 kamar mandi tidak lagi diprioritaskan. Arah terbaru adalah 1 KM shared yang dibuat lebih nyaman, ditambah wastafel luar untuk tamu dan cuci tangan cepat.
+
 | Ruang | Ukuran Konseptual | Luas | Catatan |
 |---|---:|---:|---|
-| Kamar tidur utama | +/- 4.75 m x 4.85 m | +/- 23.04 m2 | Termasuk akses ke toilet praktis dalam |
-| Toilet praktis kamar utama | +/- 1.85 m x 2.35 m | +/- 4.35 m2 | Closet, shower, wastafel kecil |
+| Kamar tidur utama | +/- 4.02 m x 3.90 m | +/- 15.68 m2 | Privat, tanpa KM dalam pada Rev3 |
+| KM shared | target 1.50-1.80 m x 1.80-2.20 m | +/- 2.70-3.96 m2 | 1 KM yang dibuat proper, bukan 2 KM kecil |
+| Wastafel luar | +/- 0.60-0.80 m x 0.45-0.50 m | +/- 0.30-0.40 m2 | Buffer tamu sebelum KM |
 | Kamar tidur 2 | +/- 3.75 m x 3.80 m | +/- 14.25 m2 | Kamar anak/tamu keluarga |
 | Ruang kerja privat | +/- 3.55 m x 4.55 m | +/- 16.15 m2 | Area depan, mendapat cahaya fasad |
 | Ruang keluarga privat | +/- 2.75 m x 4.55 m | +/- 12.51 m2 | Area depan kanan |
@@ -200,25 +204,27 @@ Alasan:
 
 ## Opsi Layout
 
-## Skema Terpilih - 2 Kamar Tidur + 1 Ruang Kerja
+## Skema Terpilih Rev3 - 2 Kamar Tidur + 1 Ruang Kerja + 1 KM Shared
 
 Konsep:
 
 - Depan: ruang kerja privat, ruang keluarga privat, balkon kecil.
-- Tengah: koridor 1000 mm, kamar tidur 2, ruang makan + pantry, KM bersama.
-- Belakang: kamar tidur utama dengan toilet praktis dalam, ruang tamu dekat tangga, laundry/jemur.
+- Tengah: koridor 900-1000 mm, mushola, ruang keluarga, dapur kering, KM shared.
+- Belakang: ruang tamu dekat tangga, laundry/jemur, wastafel luar sebagai buffer menuju KM.
+- Kamar tidur utama tidak memakai toilet dalam pada Rev3.
 
 Kelebihan:
 
 - Layout lebih sederhana dan mudah dibaca.
 - Area depan lebih privat dan mendukung kerja fokus.
 - Ruang tamu dekat tangga sehingga tamu tidak masuk ke area privat.
-- Kamar utama lebih nyaman karena memiliki toilet praktis dalam.
-- Jumlah ruang basah masih terkendali: toilet utama + KM bersama.
+- 1 KM shared lebih realistis dan tidak menghasilkan ruang basah yang jarang dipakai.
+- Wastafel luar membantu tamu cuci tangan tanpa masuk terlalu jauh ke area privat.
+- Plumbing lebih pendek karena KM, wastafel, dan laundry tetap berada dalam cluster service.
 
 Kekurangan:
 
-- Plumbing perlu dirancang rapi karena ada 2 kamar mandi di lantai 2.
+- KM shared harus dibuat lebih nyaman karena menjadi satu-satunya KM lantai 2.
 - Koridor tetap mengambil area sekitar +/- 11 m2.
 - Ruang keluarga privat lebih kompak karena sebagian depan diberikan ke ruang kerja.
 
@@ -278,12 +284,12 @@ Catatan:
 
 Untuk ruko hunian keluarga, opsi paling seimbang adalah Opsi B jika prioritasnya kenyamanan, atau Opsi A jika prioritasnya jumlah kamar.
 
-Rekomendasi awal yang rasional:
+Rekomendasi Rev3 yang rasional:
 
 - 2 kamar tidur.
 - 1 ruang kerja privat di depan.
-- 1 toilet praktis dalam kamar utama.
-- 1 kamar mandi bersama.
+- 1 KM shared yang dibuat lebih nyaman.
+- 1 wastafel luar sebagai buffer tamu.
 - Ruang tamu dekat tangga.
 - Pantry + ruang makan.
 - Laundry/jemur belakang.
@@ -506,14 +512,20 @@ Konsep ini memakai ruang 1500 x 4000 mm di samping tangga:
 
 ## Pertanyaan yang Perlu Dikunci Sebelum Digambar
 
-1. Lantai 2 mau 2 kamar tidur atau 3 kamar tidur?
-2. Apakah perlu kamar mandi dalam untuk kamar utama?
-3. Apakah perlu balkon depan?
-4. Apakah dapur utama ada di lantai 2 atau cukup pantry kering?
-5. Area laundry/jemur ingin terbuka di belakang atau tertutup?
-6. Apakah lantai 3 akan dibangun nanti sebagai hunian juga atau hanya dak/ruang tambahan?
-7. Apakah ada kebutuhan AC di semua kamar?
-8. Apakah fasad depan ingin modern minimalis, tropis, atau tetap sederhana ruko?
+Status setelah Rev3:
+
+- 2 kamar tidur + 1 ruang kerja dipilih.
+- Kamar mandi dalam tidak diprioritaskan.
+- 1 KM shared + wastafel luar dipilih.
+- Balkon depan tetap ada sebagai area santai kecil.
+
+Pertanyaan yang masih terbuka:
+
+1. Apakah dapur utama ada di lantai 2 atau cukup pantry kering?
+2. Area laundry/jemur ingin terbuka di belakang atau tertutup?
+3. Apakah lantai 3 akan dibangun nanti sebagai hunian juga atau hanya dak/ruang tambahan?
+4. Apakah ada kebutuhan AC di semua kamar?
+5. Apakah fasad depan ingin modern minimalis, tropis, atau tetap sederhana ruko?
 
 ## Catatan Risiko Desain
 

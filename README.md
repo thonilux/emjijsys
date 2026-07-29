@@ -2,18 +2,20 @@
 
 Repo dokumentasi dan analisis desain **ruko-hunian 2 lantai PT. EMJI JAYA**. Fokus repo ini adalah merapikan keputusan desain, analisis arsitektur, struktur, MEP, psikologi ruang, dan checklist menuju gambar kerja.
 
-![Preview denah EMJIJSYS](assets/emjijsys_model_page1.png)
+![Preview denah EMJIJSYS Rev3](assets/emjijsys_rev3_model_page1.png)
 
 ## ⚡ Quick Links
 
 | Dokumen | Isi |
 |---|---|
-| [Analisis V2](docs/emjijsys-analisis-v2.md) | Analisis utama arsitektur, struktur, MEP, psikologi ruang |
+| [Analisis Rev3](docs/emjijsys-analisis-rev3.md) | Analisis terbaru arsitektur, psikologi ruang, MEP, dan estimasi rangka balok |
+| [Analisis V2](docs/emjijsys-analisis-v2.md) | Analisis versi sebelumnya sebagai arsip keputusan |
 | [Lantai 1](docs/lantai1.md) | Ringkasan struktur dan konsep lantai 1 |
 | [Lantai 2](docs/lantai2.md) | Brainstorming hunian lantai 2, service room, ruang kerja, balkon |
 | [Docs Index](docs/README.md) | Daftar dokumen dan aset |
 | [TODO](TODO.md) | Roadmap revisi berikutnya |
-| [PDF Model](assets/emjijsys-Model.pdf) | Sumber PDF model/as-built |
+| [PDF Rev3](assets/emjijsys-rev3-Model.pdf) | Sumber PDF model rev3 |
+| [PDF Model Lama](assets/emjijsys-Model.pdf) | Sumber PDF model/as-built sebelumnya |
 
 ## 📌 Data Ringkas
 
@@ -32,17 +34,18 @@ Repo dokumentasi dan analisis desain **ruko-hunian 2 lantai PT. EMJI JAYA**. Fok
 - Lantai 1 dipertahankan fleksibel untuk usaha.
 - Lantai 2 diarahkan menjadi hunian privat.
 - Ruang tamu dekat tangga sebagai filter sosial.
-- Area service/laundry dan kamar mandi dikelompokkan agar MEP efisien.
+- Area service/laundry dan 1 KM shared dikelompokkan agar MEP efisien.
+- Wastafel luar dipakai sebagai buffer tamu sebelum KM.
 - Ruang keluarga dan balkon menjadi zona santai depan.
 - Ruang kerja diperlakukan sebagai mini-lab, bukan sekadar meja laptop.
 
 ## 🚨 Prioritas Berikutnya
 
-1. Overlay grid, kolom, dan balok lantai 2.
+1. Overlay grid, kolom, dan balok lantai 2 rev3.
 2. Cek semua dinding lantai 2 terhadap balok.
 3. Detail void tangga dan balkon.
-4. Kunci shaft plumbing untuk laundry + kamar mandi.
-5. Rapikan layout pintu, koridor, dan area toilet.
+4. Kunci shaft plumbing untuk laundry + KM shared.
+5. Rapikan layout pintu, koridor, wastafel luar, dan area toilet.
 6. Buat gambar MEP dasar: plumbing, listrik, exhaust, AC drain.
 7. Rapikan CTB/lineweight untuk PDF A3.
 
@@ -54,11 +57,14 @@ emjijsys/
 ├─ TODO.md
 ├─ assets/
 │  ├─ emjijsys-Model.pdf
+│  ├─ emjijsys-rev3-Model.pdf
 │  ├─ emjijsys_model_page1.png
+│  ├─ emjijsys_rev3_model_page1.png
 │  ├─ lantai2_inspiration_layout.png
 │  └─ ...
 └─ docs/
    ├─ README.md
+   ├─ emjijsys-analisis-rev3.md
    ├─ emjijsys-analisis-v2.md
    ├─ lantai1.md
    ├─ lantai2.md
