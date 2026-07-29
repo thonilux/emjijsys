@@ -7,9 +7,11 @@ Folder ini berisi catatan desain, analisis teknis, dan referensi pengembangan ga
 | File | Fungsi |
 |---|---|
 | [emjijsys-analisis-rev3.md](emjijsys-analisis-rev3.md) | Analisis terbaru berdasarkan PDF rev3 |
+| [emjijsys-antigravity-v3-review.md](emjijsys-antigravity-v3-review.md) | Review ringkas terhadap kontra Antigravity V3 |
 | [emjijsys-analisis-v2.md](emjijsys-analisis-v2.md) | Analisis versi sebelumnya sebagai arsip |
 | [lantai1.md](lantai1.md) | Catatan dan struktur konsep lantai 1 |
 | [lantai2.md](lantai2.md) | Brainstorming layout hunian lantai 2 |
+| [references/emjijsys-antigravity-v3.md](references/emjijsys-antigravity-v3.md) | Dokumen master kurasi Antigravity V3 |
 | [references/emjijsys-antigravity-v2.md](references/emjijsys-antigravity-v2.md) | Referensi pembanding dari analisis tambahan |
 
 ## Aset Visual

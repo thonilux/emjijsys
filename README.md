@@ -9,6 +9,7 @@ Repo dokumentasi dan analisis desain **ruko-hunian 2 lantai PT. EMJI JAYA**. Fok
 | Dokumen | Isi |
 |---|---|
 | [Analisis Rev3](docs/emjijsys-analisis-rev3.md) | Analisis terbaru arsitektur, psikologi ruang, MEP, dan estimasi rangka balok |
+| [Review Antigravity V3](docs/emjijsys-antigravity-v3-review.md) | Ringkasan kontra teknis dan rekomendasi Rev 3.1 |
 | [Analisis V2](docs/emjijsys-analisis-v2.md) | Analisis versi sebelumnya sebagai arsip keputusan |
 | [Lantai 1](docs/lantai1.md) | Ringkasan struktur dan konsep lantai 1 |
 | [Lantai 2](docs/lantai2.md) | Brainstorming hunian lantai 2, service room, ruang kerja, balkon |
@@ -65,11 +66,13 @@ emjijsys/
 └─ docs/
    ├─ README.md
    ├─ emjijsys-analisis-rev3.md
+   ├─ emjijsys-antigravity-v3-review.md
    ├─ emjijsys-analisis-v2.md
    ├─ lantai1.md
    ├─ lantai2.md
    └─ references/
-      └─ emjijsys-antigravity-v2.md
+      ├─ emjijsys-antigravity-v2.md
+      └─ emjijsys-antigravity-v3.md
 ```
 
 ## ⚠️ Disclaimer
