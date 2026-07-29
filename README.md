@@ -9,7 +9,7 @@ Repo dokumentasi dan analisis desain **ruko-hunian 2 lantai PT. EMJI JAYA**. Fok
 | Dokumen | Isi |
 |---|---|
 | [Analisis Rev3](docs/emjijsys-analisis-rev3.md) | Analisis terbaru arsitektur, psikologi ruang, MEP, dan estimasi rangka balok |
-| [Review Antigravity V3](docs/emjijsys-antigravity-v3-review.md) | Ringkasan kontra teknis dan rekomendasi Rev 3.1 |
+| [Review Antigravity V3 Final](docs/emjijsys-antigravity-v3-review.md) | Ringkasan final Rev 3.1A+: toilet Lt.1 usable + 1 KM Lt.2 proper |
 | [Analisis V2](docs/emjijsys-analisis-v2.md) | Analisis versi sebelumnya sebagai arsip keputusan |
 | [Lantai 1](docs/lantai1.md) | Ringkasan struktur dan konsep lantai 1 |
 | [Lantai 2](docs/lantai2.md) | Brainstorming hunian lantai 2, service room, ruang kerja, balkon |
@@ -35,8 +35,9 @@ Repo dokumentasi dan analisis desain **ruko-hunian 2 lantai PT. EMJI JAYA**. Fok
 - Lantai 1 dipertahankan fleksibel untuk usaha.
 - Lantai 2 diarahkan menjadi hunian privat.
 - Ruang tamu dekat tangga sebagai filter sosial.
-- Area service/laundry dan 1 KM shared dikelompokkan agar MEP efisien.
-- Wastafel luar dipakai sebagai buffer tamu sebelum KM.
+- Sistem sanitasi memakai toilet praktis usable lantai 1 + 1 KM shared proper lantai 2.
+- Wastafel luar dipakai sebagai buffer tamu sebelum KM, tetapi harus masuk niche/alcove.
+- Akses tangga dari toko ke hunian perlu pintu fisik/smart lock.
 - Ruang keluarga dan balkon menjadi zona santai depan.
 - Ruang kerja diperlakukan sebagai mini-lab, bukan sekadar meja laptop.
 

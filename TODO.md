@@ -2,9 +2,9 @@
 
 Roadmap ini dipakai untuk mengubah konsep menjadi paket gambar kerja yang lebih siap dicek.
 
-Status terbaru: Rev3 memakai **1 KM shared + wastafel luar**, bukan 2 kamar mandi.
+Status terbaru: Rev 3.1A+ memakai **toilet praktis usable lantai 1 + 1 KM shared proper lantai 2 + wastafel niche**, bukan 2 kamar mandi lantai 2.
 
-Catatan Antigravity V3: sebelum dikunci, buat studi **Rev 3.1** untuk membandingkan 1 KM proper, split bathroom, dan 2 KM compact.
+Catatan Antigravity V3 Final: sistem sanitasi dibaca sebagai sistem 2 lantai. Opsi 2 KM compact tetap disimpan sebagai cadangan, tetapi bukan rekomendasi utama selama toilet lantai 1 benar-benar usable.
 
 ## 🚨 Prioritas Tinggi
 
@@ -15,12 +15,12 @@ Catatan Antigravity V3: sebelum dikunci, buat studi **Rev 3.1** untuk membanding
 - [ ] Detailkan balok tepi void tangga.
 - [ ] Detailkan balok balkon dan waterproofing balkon.
 - [ ] Tentukan shaft plumbing untuk laundry + KM shared + wastafel luar.
-- [ ] Buat studi alternatif Rev 3.1A: 1 KM shared proper + wastafel niche.
-- [ ] Buat studi alternatif Rev 3.1B: split bathroom, kloset dan shower terpisah.
-- [ ] Buat studi alternatif Rev 3.1C: 2 KM compact.
+- [ ] Pastikan toilet praktis lantai 1 usable, min. target 1200 x 2000 mm.
+- [ ] Detail KM shared lantai 2 proper, min. target 1600 x 2200 mm.
 - [ ] Ubah wastafel luar menjadi niche/alcove anti-slip.
 - [ ] Tambahkan pintu fisik/smart lock pada akses tangga dari lantai 1.
 - [ ] Detail insulasi ruang kerja terhadap kamar utama.
+- [ ] Simpan opsi 2 KM compact sebagai cadangan jika simulasi aktivitas keluarga membutuhkan.
 - [ ] Pastikan koridor bersih minimal 900 mm.
 - [ ] Simulasi swing semua pintu di area toilet, wastafel luar, ruang kerja, kamar utama, kamar tidur.
 
